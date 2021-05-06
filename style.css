@@ -1,0 +1,9 @@
+* {
+    font-family: 'Inter';
+}
+.table{
+    overflow: auto;
+}
+td{
+    font-size: 15px;
+}
